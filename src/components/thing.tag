@@ -6,7 +6,7 @@
 
   <script>
     stuff() {
-      opts.thing();
+      opts.trigger('ay');
       console.log('stuff');
     }
 
